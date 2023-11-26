@@ -1,2 +1,2 @@
 ## GameCatalogApi
-Project developed with .NET
+Project developed with .NET Legacy
