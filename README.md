@@ -1,7 +1,7 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> API RESTful Catálogo de Jogos</span>
+    <span> API RESTful Catálogo de Jogos 🎮🌐</span>
 </h1>
 
 Repositório desenvolvido para fins didáticos para o bootcamp Code Anywhere .NET Avanade e Porto Digital da [Digital Innovation One](https://www.dio.me/).
